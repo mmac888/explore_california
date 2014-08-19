@@ -1,9 +1,11 @@
 # Comment 
+temp
 tempfile.txt
 tempfile2.txt
 .DS_Store
 *.zip
 *.gz
+*.txt
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
